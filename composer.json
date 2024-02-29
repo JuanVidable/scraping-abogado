@@ -1,0 +1,6 @@
+{
+    "require": {
+        "fabpot/goutte": "^4.0",
+        "voku/simple_html_dom": "^4.8"
+    }
+}
